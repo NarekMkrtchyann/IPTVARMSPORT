@@ -1,32 +1,6 @@
-#EXTM3U
-
-#EXTINF:0, Armenia TV HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/401/index.m3u8
-
-#EXTINF:0, Shant TV HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/402/index.m3u8
-
-#EXTINF:0, H1 HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/403/index.m3u8
-
-#EXTINF:0, Armenia Premium HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/404/index.m3u8
-
-#EXTINF:0, Shant Premium HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/405/index.m3u8
-
-#EXTINF:0, Shant Music HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/408/index.m3u8
-
-#EXTINF:0, Shant Kids HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/409/index.m3u8
-
-#EXTINF:0, Shant Serial HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/410/index.m3u8
-
-#EXTINF:0, Kentron TV
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/411/index.m3u8
-
-#EXTINF:0, ATV HD
-http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/412/index.m3u8
-
+http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/31716/index.m3u8
+#EXTINF:0 tvg-rec="0",Delta TV AM
+#EXTGRP:Հայկական
+http://4os6vafy.ottclub.xyz/iptv/F68NYQ5G8U59EU87SQ29B3V2/18214/index.m3u8
+#EXTINF:0 tvg-rec="3",H1 HD AM
+#EXTGRP:Հայկական

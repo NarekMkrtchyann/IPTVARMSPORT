@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Հայկական",Առաջին Ալիք
+http://cdn.1ctv.live/lb0/1/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D177f860ca0d8d4492af319111f1e9aa6%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D1%26timestamp%3D1770031376
+
+#EXTINF:-1 group-title="Հայկական",Հ2
+http://cdn.1ctv.live/lb0/6/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D177f860ca0d8d4492af319111f1e9aa6%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D2%26timestamp%3D1770031682
+
+#EXTINF:-1 group-title="Հայկական",Արմենիա TV
+http://cdn.1ctv.live/lb0/4/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D177f860ca0d8d4492af319111f1e9aa6%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D3%26timestamp%3D1770031814
+
+#EXTINF:-1 group-title="Հայկական",Կենտրոն
+http://185.234.59.100/11/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D6654960338c48363162d287ff10e9d09%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D5%26timestamp%3D1770036632
+
+#EXTINF:-1 group-title="Հայկական",Երկիր Մեդիա
+http://178.219.56.119/20/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D6654960338c48363162d287ff10e9d09%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D6%26timestamp%3D1770037001
+
+#EXTINF:-1 group-title="Հայկական",Shant
+http://185.234.59.100/5/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D6654960338c48363162d287ff10e9d09%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D4%26timestamp%3D1770037123
+
+#EXTINF:-1 group-title="Հայկական",Shoxokat
+http://cdn.1ctv.live/lb0/157/mono.m3u8?filter=tracks:v1a1&token=token%3D23893723f39f42da8bf7b03482e49043%26token1%3D6654960338c48363162d287ff10e9d09%26token2%3D75625460f845e6ab6eeaa7ef5142c53e%26domain%3Dmy-net%26key%3Df1%26media_id%3D7%26timestamp%3D1770037303
